@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Karagenki",
+  "base_artist": "Siero",
+  "createdAt": "2026-03-08T06:02:23.667251Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Karagenki",
+      "artist": "Siero",
+      "has_synced": false,
+      "path": "select/pl_01_Karagenki_Siero.txt"
+    }
+  ]
+}
